@@ -1,4 +1,3 @@
-# Zomato-Restaurants-Data-Analysis
 
 # 🍴 Zomato Restaurants Data Analysis
 
