@@ -56,4 +56,11 @@ The project includes several interactive and insightful plots:
 - This project demonstrates the **power of data analytics** in transforming raw data into **actionable strategies** for:  
   - **Business Owners** → To understand demand and optimize services.  
   - **Customers** → To make better dining choices.  
-  - **Investors/Planners** → To focus on profitable locations and cuisines.  
+  - **Investors/Planners** → To focus on profitable locations and cuisines.
+ 
+## 🔹 What I Gained from this Project
+- Improved my **data cleaning and preprocessing skills** using Pandas & NumPy.  
+- Gained hands-on experience in **exploratory data analysis (EDA)**.  
+- Strengthened my ability to **create meaningful visualizations** using Matplotlib & Seaborn.  
+- Learned how to **draw insights from real-world business data** and connect them to practical outcomes.  
+- Boosted my confidence in building **end-to-end data analysis projects** for my portfolio.
