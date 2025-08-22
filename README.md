@@ -8,7 +8,7 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, I performed **data cleaning, 
 ---
 
 ## 🔹 Dataset
-- Source: Zomato cleaned dataset (Excel/CSV format)  
+- Source: Zomato dataset (Excel/CSV format)  
 - Features include:
   - Restaurant name, location, city
   - Cuisines offered
