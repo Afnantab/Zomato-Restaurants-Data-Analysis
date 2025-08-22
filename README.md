@@ -57,7 +57,3 @@ The project includes several interactive and insightful plots:
   - **Business Owners** → To understand demand and optimize services.  
   - **Customers** → To make better dining choices.  
   - **Investors/Planners** → To focus on profitable locations and cuisines.  
-
----
-
-## 📂 Repository Structure
